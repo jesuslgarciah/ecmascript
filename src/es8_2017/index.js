@@ -27,7 +27,7 @@ console.log(string.padStart(7, 'hi'))
 console.log(string.padEnd(14, '**-----**'))
 
 
-//LLAMADO DE TRAILING COMAS
+//LLAMADO DE TRAILING COMMAS
 const data = {
     name: 'Jesus',
 }
